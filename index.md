@@ -1,6 +1,6 @@
 ## 318cyz 的博客
 
-[改完再试试重定向？](https://github.com)
+[如果行的话应该会跳到我wikidot的SCRclone吧](https://318cyz.wikidot.com)
 
 
 # Test
