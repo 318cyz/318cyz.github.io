@@ -1,6 +1,6 @@
 ## 318cyz 的博客
 
-[重定向测试](https://318cyz.github.io)
+[改完再试试重定向？](https://github.com)
 
 
 # Test
